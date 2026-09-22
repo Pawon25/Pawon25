@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Pavan</h1>
 <h3 align="center">Coding the Future with Innovation! Passionate about Deep Learning | ML | Java</h3>
 
+<p align="center">
+  <img src="https://media1.tenor.com/m/pb0kIF-blqsAAAAC/minion-typing.gif" width="300" alt="minion typing" />
+</p>
+
 - 🌱 I’m currently learning **Web Development, DL and how to sleep on time**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/pavan-b-mce/](https://www.linkedin.com/in/pavan-b-mce/)
