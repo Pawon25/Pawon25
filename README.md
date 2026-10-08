@@ -5,7 +5,7 @@
   <img src="https://media1.tenor.com/m/pb0kIF-blqsAAAAC/minion-typing.gif" width="300" alt="minion typing" />
 </p>
 
-- 📫 How to reach me **pavanbasavaraj25@gmail.com**
+**pavanbasavaraj25@gmail.com**
 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
