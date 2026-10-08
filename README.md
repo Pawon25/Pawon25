@@ -5,10 +5,6 @@
   <img src="https://media1.tenor.com/m/pb0kIF-blqsAAAAC/minion-typing.gif" width="300" alt="minion typing" />
 </p>
 
-- 🌱 I’m currently learning **Web Development, DL and how to sleep on time**
-
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/pavan-b-mce/](https://www.linkedin.com/in/pavan-b-mce/)
-
 - 📫 How to reach me **pavanbasavaraj25@gmail.com**
 
 <!-- <h3 align="left">Connect with me:</h3>
