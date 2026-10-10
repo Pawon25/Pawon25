@@ -5,8 +5,6 @@
   <img src="https://media1.tenor.com/m/pb0kIF-blqsAAAAC/minion-typing.gif" width="300" alt="minion typing" />
 </p>
 
-**pavanbasavaraj25@gmail.com**
-
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/pawon25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pawon25" height="30" width="40" /></a>
